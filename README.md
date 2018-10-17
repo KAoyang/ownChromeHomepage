@@ -1,7 +1,7 @@
-<<<<<<< HEAD
+
 =======
-DIY Chrome新标签页 learn from TonyXu
->>>>>>> 73f2615eba31794d5c001fe1aa2d1f81995ce91c
+#DIY Chrome新标签页 learn from TonyXu
+
 自定义newTab
 ===
 
