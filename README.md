@@ -1,6 +1,4 @@
 
-=======
-# DIY Chrome新标签页 learn from TonyXu
 自定义newTab
 ===
 
