@@ -12,9 +12,9 @@ https://tonyxu.io/zh/posts/2018/customize-chrome-new-tab-page/
 ## css来自bulma模板
 
 步骤：
-*下载zip解压到单独文件夹内
+* 下载zip解压到单独文件夹内
 ![](https://s1.ax2x.com/2018/10/17/5Tf0Sd.png)
-*打开chrome，右上角三个点，更多工具-扩展程序
+* 打开chrome，右上角三个点，更多工具-扩展程序
 ![](https://s1.ax2x.com/2018/10/17/5Tk2wA.png)
 *打开开发者模式
 ![](https://s1.ax2x.com/2018/10/17/5Tk2wA.png)
